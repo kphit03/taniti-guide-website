@@ -170,6 +170,55 @@ main {
     color: #333;
 }
 
+/* Activities Page Styles */
+.activities-content {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.activities-info {
+    flex: 2;
+    background: #e2faff; /* Light blue */
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.activities-info h1 {
+    color: #0077b6; /* Deep ocean blue */
+}
+
+.activities-photo {
+    flex: 1;
+    text-align: center;
+}
+
+.activities-photo img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.activities-section {
+    margin-bottom: 2rem;
+}
+
+.activities-section h2 {
+    color: #00b4d8; /* Turquoise blue */
+    margin-bottom: 1rem;
+}
+
+.activities-list {
+    list-style-type: disc;
+    margin-left: 2rem;
+    color: #333;
+    font-size: 1rem;
+}
+
+.activities-list li {
+    margin-bottom: 0.5rem;
+}
+
 /* Footer Styles */
 footer {
     text-align: center;
@@ -192,7 +241,8 @@ footer {
         gap: 0.5rem;
     }
 
-    .main-content {
+    .main-content,
+    .activities-content {
         flex-direction: column;
     }
 
