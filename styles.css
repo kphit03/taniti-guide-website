@@ -488,3 +488,7 @@ footer {
     background: #0077b6; 
     transform: scale(1.05); 
 }
+
+cite {
+    font-size: .5rem;
+}
