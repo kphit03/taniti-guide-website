@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    color: #333; /* Darker text color for readability */
+    color: #333; 
     line-height: 1.6;
     background-color: #fafafa; /* Soft cream background */
 }
@@ -68,7 +68,7 @@ main {
 
 .home-banner h1 {
     font-size: 2.5rem;
-    color: #0077b6; /* A deeper ocean blue for headings */
+    color: #0077b6; 
 }
 
 .home-banner p {
@@ -107,7 +107,7 @@ main {
 .highlight h2 {
     font-size: 1.5rem;
     margin-bottom: 1rem;
-    color: #00b4d8; /* Turquoise blue for titles */
+    color: #00b4d8; 
 }
 
 .highlight p {
@@ -118,7 +118,7 @@ main {
 .highlight a {
     display: inline-block;
     text-decoration: none;
-    color: #f07b3f; /* Sunset orange for link color */
+    color: #f07b3f; 
     border: 1px solid #f07b3f;
     padding: 0.5rem 1rem;
     border-radius: 5px;
@@ -132,14 +132,14 @@ main {
 
 /* Lodging Page Styles */
 .lodging-info {
-    background: #e2faff; /* Light blue */
+    background: #e2faff; 
     padding: 2rem;
     border-radius: 10px;
     margin-bottom: 2rem;
 }
 
 .lodging-info h1 {
-    color: #0077b6; /* Deep ocean blue */
+    color: #0077b6; 
 }
 
 .lodging-gallery {
@@ -179,13 +179,13 @@ main {
 
 .activities-info {
     flex: 2;
-    background: #e2faff; /* Light blue */
+    background: #e2faff; 
     padding: 2rem;
     border-radius: 10px;
 }
 
 .activities-info h1 {
-    color: #0077b6; /* Deep ocean blue */
+    color: #0077b6; 
 }
 
 .activities-photo {
@@ -204,7 +204,7 @@ main {
 }
 
 .activities-section h2 {
-    color: #00b4d8; /* Turquoise blue */
+    color: #00b4d8; 
     margin-bottom: 1rem;
 }
 
@@ -228,13 +228,13 @@ main {
 
 .dining-info {
     flex: 2;
-    background: #e2faff; /* Light blue */
+    background: #e2faff; 
     padding: 2rem;
     border-radius: 10px;
 }
 
 .dining-info h1 {
-    color: #0077b6; /* Deep ocean blue */
+    color: #0077b6; 
 }
 
 .dining-photo {
@@ -253,7 +253,7 @@ main {
 }
 
 .dining-section h2 {
-    color: #00b4d8; /* Turquoise blue */
+    color: #00b4d8; 
     margin-bottom: 1rem;
 }
 
@@ -277,13 +277,13 @@ main {
 
 .transport-info {
     flex: 2;
-    background: #e2faff; /* Light blue */
+    background: #e2faff; 
     padding: 2rem;
     border-radius: 10px;
 }
 
 .transport-info h1 {
-    color: #0077b6; /* Deep ocean blue */
+    color: #0077b6; 
 }
 
 .transport-photo {
@@ -302,7 +302,7 @@ main {
 }
 
 .transport-section h2 {
-    color: #00b4d8; /* Turquoise blue */
+    color: #00b4d8; 
     margin-bottom: 1rem;
 }
 
@@ -319,7 +319,7 @@ main {
 
 /* Contact Page Styles */
 .contact-form-section {
-    background: #e2faff; /* Light blue */
+    background: #e2faff; 
     padding: 2rem;
     border-radius: 10px;
     text-align: center;
@@ -328,7 +328,7 @@ main {
 }
 
 .contact-form-section h1 {
-    color: #0077b6; /* Deep ocean blue */
+    color: #0077b6; 
     margin-bottom: 1rem;
 }
 
@@ -362,12 +362,12 @@ main {
 .contact-form input:focus,
 .contact-form textarea:focus {
     outline: none;
-    border-color: #00b4d8; /* Turquoise blue */
+    border-color: #00b4d8; 
     box-shadow: 0 0 5px rgba(0, 180, 216, 0.5);
 }
 
 .contact-form button {
-    background: #00b4d8; /* Turquoise blue */
+    background: #00b4d8; 
     color: #fff;
     font-size: 1rem;
     border: none;
@@ -378,12 +378,12 @@ main {
 }
 
 .contact-form button:hover {
-    background: #0077b6; /* Deep ocean blue */
+    background: #0077b6; 
 }
 
 /* FAQ Page Styles */
 .faq-section {
-    background: #e2faff; /* Light blue */
+    background: #e2faff; 
     padding: 2rem;
     border-radius: 10px;
     margin: 2rem auto;
@@ -391,7 +391,7 @@ main {
 }
 
 .faq-section h1 {
-    color: #0077b6; /* Deep ocean blue */
+    color: #0077b6; 
     text-align: center;
     margin-bottom: 2rem;
 }
@@ -401,7 +401,7 @@ main {
 }
 
 .faq h2 {
-    color: #00b4d8; /* Turquoise blue */
+    color: #00b4d8; 
     font-size: 1.2rem;
     margin-bottom: 0.5rem;
 }
@@ -415,7 +415,7 @@ main {
 /* Footer Styles */
 footer {
     text-align: center;
-    background: #00b4d8; /* Primary color: Turquoise blue */
+    background: #00b4d8; 
     color: #fff;
     padding: 1rem 0;
     margin-top: 2rem;
@@ -475,7 +475,7 @@ footer {
     display: inline-block;
     margin-top: 0.5rem;
     padding: 0.5rem 1rem;
-    background: #00b4d8; /* Turquoise blue */
+    background: #00b4d8; 
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
@@ -485,6 +485,6 @@ footer {
 }
 
 .book-now-btn:hover {
-    background: #0077b6; /* Deep ocean blue */
-    transform: scale(1.05); /* Slight pop effect */
+    background: #0077b6; 
+    transform: scale(1.05); 
 }
